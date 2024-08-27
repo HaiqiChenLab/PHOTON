@@ -10,5 +10,5 @@
     Calculate the enrichment of RNA in a region of interest using PHOTON data.
    
 ### Phtoselection_of_Stress_Granules.ga3
-    Extract sequence information at eccDNA junctions; generate a random dataset that mimics the length and chromosome distribution of the identified human germline eccDNA; Calculate the percentage of germline eccDNAs containing at least one gene exon.
+    Sample script for automated identification and photocleavage of stress graniles on a Nikon microscope equiped with a FRAP module. 
     
